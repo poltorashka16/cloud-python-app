@@ -16,8 +16,8 @@ def hello():
         </style>
     </head>
     <body>
-        <h1>Приложение работает в облаке Azure!</h1>
-        <p>Python Flask + Docker на Linux</p>
+        <h1>что делают кофейные зерна перед смертью?</h1>
+        <p>молятся</p>
     </body>
     </html>
     '''
